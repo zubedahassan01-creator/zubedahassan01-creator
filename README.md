@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [zubeda hassan]
 
-<!--
-**zubedahassan01-creator/zubedahassan01-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [computer programming].
+- I'm interested  in  python,AI ,software development and working  with API "].
+- I'm looking to collaborate on ["i'm looking to collaborate on beginner-friendly open-source project"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- ,Ai,Api data handling, Git and Github  "Python", "HTML/CSS", "Machine Learning"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Programming](link) 
+
+## How to Reach Me
+- Email: [zubedahaan01 @gmail .com]
+- LinkedIn: https://www.linkedin.com/in/zubeda-hassan-21836743b/
