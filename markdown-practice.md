@@ -10,6 +10,12 @@ My **name** is *Zubeda* `Hassan`
 [Youtube](https://www.youtube.com)
 
 # Exercise 4 - list
+## What I want to learn
 - html
 - css
 - java script
+
+## steps to commit
+1. git status
+2.  git add [files]
+3.  git commit -m "your message"
