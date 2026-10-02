@@ -4,3 +4,7 @@
 
 # Exercise 2 - Text Formatting
 My **name** is *Zubeda* `Hassan`
+
+# Exercise 3 - Links
+[My github Profile](https://github.com/zubedahassan01-creator)
+[Youtube](https://www.yotube.com)
