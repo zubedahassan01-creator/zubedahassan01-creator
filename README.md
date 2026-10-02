@@ -15,3 +15,13 @@
 ## How to Reach Me
 - Email: [zubedahaan01 @gmail .com]
 - LinkedIn: https://www.linkedin.com/in/zubeda-hassan-21836743b/
+
+
+## Output of Git
+C:\Users\Admin>git config --global --list
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Zubeda
+user.email=zubedahassan01@gmail.com
