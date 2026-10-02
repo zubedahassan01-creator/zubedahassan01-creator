@@ -19,3 +19,9 @@ My **name** is *Zubeda* `Hassan`
 1. git status
 2.  git add [files]
 3.  git commit -m "your message"
+
+# Exercise 5 - tables
+| Tools   | Purpose     | Link   |
+|---------|-----------|----------|
+| Chatgpt   | Assistant for everyday tasks | [learn](https://chatgpt.com/)  |
+| API     | Enable software applications to communicate  | [learn](https://openai.com/api/) |
