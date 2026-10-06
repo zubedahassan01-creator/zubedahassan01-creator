@@ -31,3 +31,9 @@ My **name** is *Zubeda* `Hassan`
 - [ ] html
 - [ ] css
 - [x] ai
+
+# Exercise 7 - code block
+```
+  python
+print("Hello world!")
+```
