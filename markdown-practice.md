@@ -25,3 +25,9 @@ My **name** is *Zubeda* `Hassan`
 |---------|-----------|----------|
 | Chatgpt   | Assistant for everyday tasks | [learn](https://chatgpt.com/)  |
 | API     | Enable software applications to communicate  | [learn](https://openai.com/api/) |
+
+# Exercise 6 - task list
+- [x] python
+- [ ] html
+- [ ] css
+- [x] ai
