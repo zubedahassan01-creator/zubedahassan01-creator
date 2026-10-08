@@ -1,0 +1,46 @@
+<Doctype HTML>
+<html>
+<head>
+  <titel> my site</titel>
+</head>
+<body>
+
+<header>
+  <div class="logo">my site</div>
+  <nav> 
+    <div class="nav-item">Home</div>/ 
+    <div class="nav item">About>/div>
+    <div class="nav item"contact>/>
+  </nav> 
+    </header>
+
+      <main<
+        <aticle>
+          <h1>welcome to my site</h1>
+          <p>this is my my first paragraph...</p>
+          <p>This is my second paragagraph...</p>
+        <article>
+
+          <aside>
+            <section>
+              <h2>Recent post</h2>
+            </section>
+          </aside>
+                   
+      </main>/
+
+      < footer>
+        <p>&copy:2026</p>
+      </footer>
+
+    </body>
+    </html>
+    
+      
+   
+              
+  
+  
+</header>
+</body>
+  
